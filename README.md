@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @K03K13M0NST3R
-- 🌱 I’m currently learning Python, C# + Unity , HTML + CSS, Godot
+- 🌱 I’m currently learning Python, C#, HTML + CSS, Godot
 - 😄 Pronouns: he/him
 
 
